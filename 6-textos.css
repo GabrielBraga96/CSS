@@ -1,0 +1,54 @@
+/* pesquisar fontes google fontes
+    copiar o head do google e colocar no head do html
+    para ter todas grossuras copiar todos weight
+ */
+
+
+
+
+
+h1 {
+    font-family: "Bebas Neue", serif;
+    color: red;
+    font-size: 64px;
+    font-weight: lighter;
+    font-style: italic;
+    text-shadow: 10px 10px 60px #ff0000;
+    /* text-shadow (primeiro sombra horisontal
+    segundo sombra na vertical
+    terceiro esfumaçada
+    quarto cor
+    */
+}
+
+p {
+    font-family: "Bebas Neue", serif;
+    color: blue;
+    font-size: 30px;
+    font-weight: 100;
+   /* font-size: italic;
+    line-height: 50px;
+    letter-spacing: 10px;
+    word-spacing: 40px;
+    text-align: center; */
+    text-transform: capitalize;
+    /*text-transform: uppercase;
+    text-transform: lowercase;*/
+    /*text-decoration: underline;
+    text-decoration: overline;*/
+
+}
+
+/* Atalhos para font-weight: 
+    bold, bolder, light
+    ou
+*/
+
+/* pode também ser importada a fonte só pelo css
+ colando o @import
+ */
+
+
+/* obs: o css jé é um style
+    não é necessario codigo <style></style>
+*/
